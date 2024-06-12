@@ -3,7 +3,7 @@
 #include "Parser.h"
 #include <iostream>
 
-#define WELCOME "Welcome to Magshimim Python Interperter version 1.0 by "
+#define WELCOME "Welcome to my Python Interperter version 1.0 by "
 #define YOUR_NAME "Itamar.H-L"
 
 
